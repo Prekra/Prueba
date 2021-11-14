@@ -9,11 +9,11 @@ swal({
 
 
 a=setTimeout(dos,2000)
-b=setTimeout(tres,3000)
-c=setTimeout(cuatro,4000)
-d=setTimeout(cinco,5000)
-e=setTimeout(seis,6000)
-f=setTimeout(siete,7000)
+b=setTimeout(tres,4000)
+c=setTimeout(cuatro,6000)
+d=setTimeout(cinco,8000)
+e=setTimeout(seis,10000)
+f=setTimeout(siete,12000)
 
 }
 
